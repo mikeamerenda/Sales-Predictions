@@ -1,4 +1,4 @@
-# Sales-Predictions-Project
+# Sales-Predictions
 The goal of this repository is to showcase the analyzation of data from a retailer to help them understand the different factors that affect sales and give recommendations on how they can increase sales and improve their business.
 
  ![image](https://user-images.githubusercontent.com/89368190/136728706-bcdf43f5-d762-49c8-864e-e0ae2e65ae62.png)
